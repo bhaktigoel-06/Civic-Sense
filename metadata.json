@@ -1,0 +1,6 @@
+{
+  "name": "Civic Issue Reporter",
+  "description": "AI camera app to automatically identify civic community problems like potholes and drainage, dispatch notices to authorities, update traveler maps, and reward top citizen reporters.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
